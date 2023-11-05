@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @foroozf001
-- 👀 I’m interested in: Azure, AWS, Docker, Kubernetes, Helm, Golang, Python, CI/CD, Terraform, Ansible
+- 👀 I’m interested in: Cloud, Containers, Kubernetes, SRE, Automation, IaC
 - 📫 How to reach me: LinkedIn
 
 <!---
